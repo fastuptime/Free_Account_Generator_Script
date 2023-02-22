@@ -1,0 +1,28 @@
+[
+    {
+        "name": "hulu",
+        "acs": [
+            {
+                "mail": "Florence_Bogan68@hotmail.com",
+                "password": "pgz5siBAxG0yBYG"
+            },
+            {
+                "mail": "Jan_Kunde@gmail.com",
+                "password": "uMC5ng53KyUXzdn"
+            }
+        ]
+    },
+    {
+        "name": "nordvpn",
+        "acs": [
+            {
+                "mail": "Dereck_Schultz@gmail.com",
+                "password": "OsbWcVcTBSxec2e"
+            },
+            {
+                "mail": "Oscar_Hettinger@yahoo.com",
+                "password": "aoCKxhiXDVWR9yI"
+            }
+        ]
+    }
+]
